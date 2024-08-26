@@ -59,7 +59,7 @@
     </properties>
 
 
-    <!-- start dependencies-->
+    <!--  dependencies -->
     <dependencies>
 
        <!-- netflix-eureka-server-->
@@ -100,7 +100,6 @@
 
         <!--Plugins-->
         <plugins>
-
             <!-- for maven target 17: SonarQube 11 veya 17 yapmalısınız -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
@@ -118,5 +117,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
